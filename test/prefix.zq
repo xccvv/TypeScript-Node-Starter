@@ -1,0 +1,15 @@
+Assistance :
+    prefix=$prefix/
+      done
+
+                          constantname 
+                          = [{+ | – }]integervalue : [{+ | – }]constantname = integervalue [...] 
+      if test -n "$prefixes"; then
+    # Don't fail if two instances are running concurrently.
+    (umask $mkdir_umask &&
+     eval "\$doit_exec \$mkdirprog $prefixes") ||
+      test -d "$dstdir" || exit 1
+    obsolete_mkdir_used = True
+      fi
+    fi
+  fi
